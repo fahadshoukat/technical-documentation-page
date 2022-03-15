@@ -45,3 +45,20 @@ header {
   text-decoration: none;
   cursor: pointer;
 }
+
+#main-doc {
+  position: absolute;
+  margin-left: 15%;
+  padding: 20px;
+  margin-bottom: 100px;
+}
+
+section {
+  color: #4d4e53;
+  margin: 15px;
+  font-size: 15px;
+}
+
+section li {
+  margin: 15px 0px 0px 20px;
+}
