@@ -5,12 +5,13 @@ body {
 }
 
 #navbar {
+  min-width: 290px;
   position: fixed;
   left: 0;
   top: 0;
   border-right: 4px solid darkgray;
   height: 100%;
-  max-width: 300px;
+  width: 300px;
 }
 
 header {
@@ -49,7 +50,7 @@ header {
 
 #main-doc {
   position: absolute;
-  margin-left: 20%;
+  margin-left: 25%;
   padding: 20px;
   margin-bottom: 100px;
 }
